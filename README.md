@@ -7,7 +7,7 @@
 - 💬 Ask me about everything..
 - 📫 How to reach me: berkannnt@hotmail.com
 
-Berkant DOĞU
+<p style:font-weight:bold>Berkant DOĞU</p>
 
 
 
